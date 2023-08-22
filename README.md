@@ -4,5 +4,5 @@
 
 <h3 align="center">Weather App</h3>
 <p align="center">
-  A minimal Weather App developed using the power of React.js, designed to provide you with seamless access to real-time weather information. By harnessing the capabilities of axios, the app seamlessly pulls the latest weather data from the OpenWeather API, ensuring that you're always up-to-date with accurate forecasts. The user interface has been crafted using Material UI components, resulting in a visually appealing and user-friendly experience.
+  A minimal Weather App developed using React.js, designed to provide seamless access to real-time weather information. By utilizing the capabilities of axios, the app seamlessly pulls the latest weather data from the OpenWeather API, ensuring that it receives up-to-date accurate forecasts. The user interface has been crafted using Material UI components, resulting in a visually appealing and user-friendly experience.
 </p>
